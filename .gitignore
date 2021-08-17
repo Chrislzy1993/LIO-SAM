@@ -1,0 +1,41 @@
+# GNU global tags
+GTAGS
+GRTAGS
+GSYMS
+GPATH
+tags
+
+# eclipse
+.cproject
+.project
+.pydevproject
+.settings/
+
+
+
+# clion
+.idea/
+cmake-build-*/
+
+
+# file
+*.bag
+*.pcd
+*.pcap
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# catkin
+.catkin_tools/
+devel/
+build/
+data/
+script/
+utest/data/
+installer/
+
